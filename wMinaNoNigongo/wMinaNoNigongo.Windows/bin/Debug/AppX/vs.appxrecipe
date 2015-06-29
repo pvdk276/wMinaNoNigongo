@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>KHOA-PC-C</Machine>
+    <WindowsUser>Kevin</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>3f40fa9f-864b-4f18-9c4b-326952beb120</PackageIdentityName>
+    <IntermediateOutputPath>E:\My Project\.Project\wMinaNoNigongo\wMinaNoNigongo\wMinaNoNigongo.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>B168D92AF3CE9C8CC1F1BF714E776CB87433D2BE7DF6DDCC6E10F8CF335C4A94</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>3f40fa9f-864b-4f18-9c4b-326952beb120_1.0.0.0_neutral__zkzqb6kcb8758</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>3f40fa9f-864b-4f18-9c4b-326952beb120_zkzqb6kcb8758!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>3f40fa9f-864b-4f18-9c4b-326952beb120</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Kevin</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="E:\My Project\.Project\wMinaNoNigongo\wMinaNoNigongo\wMinaNoNigongo.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-29T02:44:32.353</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="E:\My Project\.Project\wMinaNoNigongo\wMinaNoNigongo\wMinaNoNigongo.Windows\bin\Debug\wMinaNoNigongo.Windows.exe">
+      <PackagePath>wMinaNoNigongo.Windows.exe</PackagePath>
+      <Modified>2015-06-29T02:44:30.232</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\My Project\.Project\wMinaNoNigongo\wMinaNoNigongo\wMinaNoNigongo.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T03:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\My Project\.Project\wMinaNoNigongo\wMinaNoNigongo\wMinaNoNigongo.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T03:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\My Project\.Project\wMinaNoNigongo\wMinaNoNigongo\wMinaNoNigongo.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T03:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\My Project\.Project\wMinaNoNigongo\wMinaNoNigongo\wMinaNoNigongo.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T03:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\My Project\.Project\wMinaNoNigongo\wMinaNoNigongo\wMinaNoNigongo.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-06-29T02:44:29.807</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\My Project\.Project\wMinaNoNigongo\wMinaNoNigongo\wMinaNoNigongo.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-06-29T02:44:29.834</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\My Project\.Project\wMinaNoNigongo\wMinaNoNigongo\wMinaNoNigongo.Windows\bin\Debug\wMinaNoNigongo.Windows.xr.xml">
+      <PackagePath>wMinaNoNigongo.Windows.xr.xml</PackagePath>
+      <Modified>2015-06-29T02:44:29.261</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\My Project\.Project\wMinaNoNigongo\wMinaNoNigongo\wMinaNoNigongo.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-06-29T02:44:31.121</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

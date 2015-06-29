@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>KHOA-PC-C</Machine>
+    <WindowsUser>Kevin</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>3f40fa9f-864b-4f18-9c4b-326952beb120</PackageIdentityName>
+    <IntermediateOutputPath>E:\My Project\.Project\wMinaNoNigongo\wMinaNoNigongo\wMinaNoNigongo.Windows\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="E:\My Project\.Project\wMinaNoNigongo\wMinaNoNigongo\wMinaNoNigongo.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="E:\My Project\.Project\wMinaNoNigongo\wMinaNoNigongo\wMinaNoNigongo.Windows\bin\Debug\wMinaNoNigongo.Windows.exe">
+      <PackagePath>wMinaNoNigongo.Windows.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\My Project\.Project\wMinaNoNigongo\wMinaNoNigongo\wMinaNoNigongo.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\My Project\.Project\wMinaNoNigongo\wMinaNoNigongo\wMinaNoNigongo.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\My Project\.Project\wMinaNoNigongo\wMinaNoNigongo\wMinaNoNigongo.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\My Project\.Project\wMinaNoNigongo\wMinaNoNigongo\wMinaNoNigongo.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\My Project\.Project\wMinaNoNigongo\wMinaNoNigongo\wMinaNoNigongo.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\My Project\.Project\wMinaNoNigongo\wMinaNoNigongo\wMinaNoNigongo.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\My Project\.Project\wMinaNoNigongo\wMinaNoNigongo\wMinaNoNigongo.Windows\bin\Debug\wMinaNoNigongo.Windows.xr.xml">
+      <PackagePath>wMinaNoNigongo.Windows.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\My Project\.Project\wMinaNoNigongo\wMinaNoNigongo\wMinaNoNigongo.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
